@@ -8,7 +8,7 @@
 .smallest {
   font-size: 0.55em;
 }
-.end-link {
+.start-link {
   font-family: 'PT Mono', sans-serif;
   top: 35%;
   position: absolute;
@@ -17,8 +17,20 @@
   line-height: 1.8;
   color: #fff;
 }
-.end-link a {
+.start-link a {
   color: #ff0;
+}
+.end-link {
+  font-family: 'PT Mono', sans-serif;
+  bottom: 10%;
+  position: absolute;
+  width: 100%;
+  padding: 0 35px;
+  font-size: 24px;
+  line-height: 1.8;
+}
+.end-link a {
+  color: #3f56cb;
 }
 .logo {
   width: 150px;
