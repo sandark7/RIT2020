@@ -57,9 +57,6 @@ blockquote:before {
   font-weight: 100;
   letter-spacing: -3px;
 }
-.slide a {
-  color: #008000;
-}
 .slide a.bottom {
   position: absolute;
   bottom: 15%;
